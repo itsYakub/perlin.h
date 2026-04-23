@@ -1,6 +1,3 @@
-/* SOURCES:
- * - https://rosettacode.org/wiki/Perlin_noise
- * */
 #if defined (__cplusplus)
 # pragma once
 #endif /* __cplusplus */
